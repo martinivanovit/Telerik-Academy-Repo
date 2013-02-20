@@ -4,12 +4,11 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-class Program
+class AnchorTagsInserter
 {
 	static void Main(string[] args)
 	{   
 		List<string> allLines = new List<string>();
-		
 
 		ArrayFiller(allLines);
 		allLines.Sort();
