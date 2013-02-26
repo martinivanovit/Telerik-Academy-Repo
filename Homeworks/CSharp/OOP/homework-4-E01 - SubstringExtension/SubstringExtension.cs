@@ -38,16 +38,5 @@ public static class SubstringExtension
 
         return stringBuilder;
     }
-
-
-    static void Main()
-    {
-        StringBuilder a = new StringBuilder();
-        a.Append("Musaka s tarator");
-        //Console.WriteLine(a.Substring(4));
-        Console.WriteLine(a.Substring(0, 3));
-        string s = "Musaka s tarator";
-        Console.WriteLine(s.Substring(0,3));
-    }
 }
 
