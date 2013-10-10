@@ -9,3 +9,8 @@ D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Progr
 D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.XML
 D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.exe
 D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.exe
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\log4net.dll
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\log4net.xml
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache
